@@ -57,8 +57,7 @@ function Login() {
                                             <input type={inputData.html_element} name={inputData.name} required={inputData.required} datatype={inputData.type}/>
 
                                         </div>
-
-                                    )
+                                  )
                                 })
                             }
                         </div>
